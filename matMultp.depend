@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1648609486 source:/home/ahmed/Desktop/matMultp/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<pthread.h>
+	<sys/time.h>
+
